@@ -1,0 +1,8 @@
+- A firewall at the instance level
+- all inbound traffic is blocked by default
+- all outbound traffic is allowed by default
+- STATEFUL
+- [[EC2]] Instances can belong to multiple security groups.
+- To block specific IP address: NOT Security Group; you need [[NACL(Network Access Control List)|NACL]] to achieve this 
+- can have upto 10000 SG per Region
+- each SG ha
