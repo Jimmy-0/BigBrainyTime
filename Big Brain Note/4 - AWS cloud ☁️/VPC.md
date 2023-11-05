@@ -1,7 +1,7 @@
 # VPC Endpoint
 - Keep traffic between AWS services within the AWS Network
 ## Interface Endpoints (not free)
-- Use an Elastic Network Interface with private IP (AWS PrivateLink)
+- Use an [[Elastic Network Interface]] with private IP (AWS PrivateLink)
 ## Gateway Endpoints (free)
 - A target for a specific route in route table 
 - Only support DynamoDB and [[S3]]
