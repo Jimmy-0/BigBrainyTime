@@ -5,8 +5,10 @@
 - Pair with a given sum
 - **Detect Cycle in a linked list** -> fast and slow pointers
 ## Time Complexity
--  Typically O(N)
-  Be careful with duplicate elements in the array.
+- Typically O(N)
+## Common Pitfalls
+- duplicate elements
+	- can be solved by sorting the array
 # Problems
 - [ ] Valid Palindrome
 - [ ] Two Sum II Input Array Is Sorted
