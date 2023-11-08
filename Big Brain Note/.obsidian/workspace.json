@@ -47,8 +47,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,7 +188,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b83585e0e78d922f",
+  "active": "bc15e50c805ab527",
   "lastOpenFiles": [
     "1 - Flash Note 💡/Security Group.md",
     "1 - Flash Note 💡/NACL(Network Access Control List).md",
