@@ -74,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8dfa60775fc63c9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Flash Note 💡/💡Singleton Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/💡Proxy Pattern.md",
+                "file": "1 - Flash Note 💡/💡Singleton Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/💡Proxy Pattern.md",
+                "file": "1 - Flash Note 💡/💡Singleton Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/💡Proxy Pattern.md"
+                "file": "1 - Flash Note 💡/💡Singleton Pattern.md"
               }
             }
           },
@@ -221,10 +233,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac0c0e418f39288c",
+  "active": "8dfa60775fc63c9c",
   "lastOpenFiles": [
-    "1 - Flash Note 💡/💡 Provider Pattern.md",
     "1 - Flash Note 💡/💡Proxy Pattern.md",
+    "1 - Flash Note 💡/💡Singleton Pattern.md",
+    "1 - Flash Note 💡/💡 Provider Pattern.md",
     "1 - Flash Note 💡/attachments🛫/Screenshot 2023-11-12 at 14.06.02.png",
     "1 - Flash Note 💡/attachments🛫/jspat-49_ksvtl8.webm",
     "1 - Flash Note 💡/attachments🛫/jspat-48_jxmuyy.webm",

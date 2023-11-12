@@ -1,0 +1,1 @@
+- Restricting the instantiation to just _one_ instance could potentially save a lot of memory space. Instead of having to set up memory for a new instance each time, we only have to set up memory for that one instance, which is referenced throughout the application.
