@@ -1,4 +1,4 @@
-- Determine the behavior whenever we're interacting with the object.
+  - Determine the behavior whenever we're interacting with the object.
 ```js
 const tempProxy = new Proxy(person, {
 	get: (obj, prop) => { 
