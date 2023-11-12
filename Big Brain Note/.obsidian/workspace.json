@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Flash Note 💡/💡Singleton Pattern.md",
+                "file": "1 - Flash Note 💡/💡Proxy Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/💡Singleton Pattern.md",
+                "file": "1 - Flash Note 💡/💡Proxy Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/💡Singleton Pattern.md",
+                "file": "1 - Flash Note 💡/💡Proxy Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/💡Singleton Pattern.md"
+                "file": "1 - Flash Note 💡/💡Proxy Pattern.md"
               }
             }
           },
@@ -235,8 +235,8 @@
   },
   "active": "8dfa60775fc63c9c",
   "lastOpenFiles": [
-    "1 - Flash Note 💡/💡Proxy Pattern.md",
     "1 - Flash Note 💡/💡Singleton Pattern.md",
+    "1 - Flash Note 💡/💡Proxy Pattern.md",
     "1 - Flash Note 💡/💡 Provider Pattern.md",
     "1 - Flash Note 💡/attachments🛫/Screenshot 2023-11-12 at 14.06.02.png",
     "1 - Flash Note 💡/attachments🛫/jspat-49_ksvtl8.webm",
