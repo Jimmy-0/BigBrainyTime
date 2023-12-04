@@ -4,115 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9aa90bc134614a5d",
+        "id": "d0792bed2c852a2b",
         "type": "tabs",
         "children": [
           {
-            "id": "bc15e50c805ab527",
+            "id": "e5f8ea777b2f69c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Flash Note 💡/DFS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28a50a390850e32b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Flash Note 💡/💡 Provider Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4033ea1a91606a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Flash Note 💡/Security Group.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fad0288993ca589",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "40ea8c057b50e8bd",
+            "id": "6fa610227677895d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Flash Note 💡/💡 Provider Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac0c0e418f39288c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Flash Note 💡/💡Proxy Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dfa60775fc63c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Flash Note 💡/💡Proxy Pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e60d530ae280b4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Flash Note 💡/hint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "857d3052d108b361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Flash Note 💡/Islands Architecture Rendering Pattern.md",
+                "file": "1 - Flash Note 💡/LLM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c7b40c4e213fc328",
@@ -178,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/Islands Architecture Rendering Pattern.md",
+                "file": "1 - Flash Note 💡/LLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/Islands Architecture Rendering Pattern.md",
+                "file": "1 - Flash Note 💡/LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/Islands Architecture Rendering Pattern.md"
+                "file": "1 - Flash Note 💡/LLM.md"
               }
             }
           },
@@ -257,10 +174,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "857d3052d108b361",
+  "active": "6fa610227677895d",
   "lastOpenFiles": [
-    "1 - Flash Note 💡/hint.md",
+    "1 - Flash Note 💡/Untitled 1.md",
+    "1 - Flash Note 💡/LLM.md",
+    "1 - Flash Note 💡/Security Group.md",
     "1 - Flash Note 💡/Islands Architecture Rendering Pattern.md",
+    "1 - Flash Note 💡/hint.md",
     "1 - Flash Note 💡/💡Proxy Pattern.md",
     "1 - Flash Note 💡/💡Singleton Pattern.md",
     "1 - Flash Note 💡/💡 Provider Pattern.md",
@@ -269,8 +189,6 @@
     "1 - Flash Note 💡/attachments🛫/jspat-48_jxmuyy.webm",
     "1 - Flash Note 💡/attachments🛫/Pasted image 20231112134236.png",
     "1 - Flash Note 💡/attachments🛫",
-    "1 - Flash Note 💡/Untitled 1.md",
-    "1 - Flash Note 💡/Security Group.md",
     "1 - Flash Note 💡/DFS.md",
     "6 - Design Pattern",
     "1 - Flash Note 💡/NACL(Network Access Control List).md",
