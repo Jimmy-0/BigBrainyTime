@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5f8ea777b2f69c6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6fa610227677895d",
+            "id": "ddf2af301dc7fd29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Flash Note 💡/LLM.md",
+                "file": "1 - Flash Note 💡/1903. Largest Odd Number in String.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c7b40c4e213fc328",
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/LLM.md",
+                "file": "1 - Flash Note 💡/1903. Largest Odd Number in String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/LLM.md",
+                "file": "1 - Flash Note 💡/1903. Largest Odd Number in String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/LLM.md"
+                "file": "1 - Flash Note 💡/1903. Largest Odd Number in String.md"
               }
             }
           },
@@ -174,10 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6fa610227677895d",
+  "active": "ddf2af301dc7fd29",
   "lastOpenFiles": [
-    "1 - Flash Note 💡/Untitled 1.md",
+    "1 - Flash Note 💡/1903. Largest Odd Number in String.md",
     "1 - Flash Note 💡/LLM.md",
+    "1 - Flash Note 💡/Untitled 1.md",
     "1 - Flash Note 💡/Security Group.md",
     "1 - Flash Note 💡/Islands Architecture Rendering Pattern.md",
     "1 - Flash Note 💡/hint.md",
