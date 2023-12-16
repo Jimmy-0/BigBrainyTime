@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Flash Note 💡/1903. Largest Odd Number in String.md",
+                "file": "1 - Flash Note 💡/Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c7b40c4e213fc328",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/1903. Largest Odd Number in String.md",
+                "file": "1 - Flash Note 💡/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/1903. Largest Odd Number in String.md",
+                "file": "1 - Flash Note 💡/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/1903. Largest Odd Number in String.md"
+                "file": "1 - Flash Note 💡/Note.md"
               }
             }
           },
@@ -166,7 +168,7 @@
   },
   "active": "ddf2af301dc7fd29",
   "lastOpenFiles": [
-    "1 - Flash Note 💡/1903. Largest Odd Number in String.md",
+    "1 - Flash Note 💡/Note.md",
     "1 - Flash Note 💡/LLM.md",
     "1 - Flash Note 💡/Untitled 1.md",
     "1 - Flash Note 💡/Security Group.md",
