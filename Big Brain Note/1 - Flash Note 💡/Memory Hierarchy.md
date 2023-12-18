@@ -14,3 +14,6 @@
 - Shared by multiple devices
 chipsets VS IO bridge : a collection of chips separate from the process of the CPU chip 
 
+PCI Express ? 
+PCI ?
+
