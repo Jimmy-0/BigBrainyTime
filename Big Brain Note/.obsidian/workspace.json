@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce459e11ed161eff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Flash Note 💡/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,13 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c7b40c4e213fc328",
@@ -87,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/Note.md",
+                "file": "1 - Flash Note 💡/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/Note.md",
+                "file": "1 - Flash Note 💡/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/Note.md"
+                "file": "1 - Flash Note 💡/Untitled.md"
               }
             }
           },
@@ -166,9 +177,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddf2af301dc7fd29",
+  "active": "ce459e11ed161eff",
   "lastOpenFiles": [
     "1 - Flash Note 💡/Note.md",
+    "1 - Flash Note 💡/Untitled.md",
     "1 - Flash Note 💡/LLM.md",
     "1 - Flash Note 💡/Untitled 1.md",
     "1 - Flash Note 💡/Security Group.md",
