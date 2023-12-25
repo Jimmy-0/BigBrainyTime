@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c7b40c4e213fc328",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/Memory Hierarchy.md",
+                "file": "1 - Flash Note 💡/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/Memory Hierarchy.md",
+                "file": "1 - Flash Note 💡/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/Memory Hierarchy.md"
+                "file": "1 - Flash Note 💡/Note.md"
               }
             }
           },
@@ -178,10 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce459e11ed161eff",
+  "active": "1eaacf9f388faf43",
   "lastOpenFiles": [
-    "1 - Flash Note 💡/Note.md",
+    "7 - C++",
     "1 - Flash Note 💡/Memory Hierarchy.md",
+    "1 - Flash Note 💡/Note.md",
     "1 - Flash Note 💡/LLM.md",
     "1 - Flash Note 💡/Untitled 1.md",
     "1 - Flash Note 💡/Security Group.md",
