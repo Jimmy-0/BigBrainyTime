@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddf2af301dc7fd29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Flash Note 💡/Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "567db12d1cc369dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Flash Note 💡/Chapter 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "11bdd224edcb724f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Flash Note 💡/CRTD(Conflict-free Replicated Data Type).md",
+                "file": "1 - Flash Note 💡/Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/Note.md",
+                "file": "1 - Flash Note 💡/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/Note.md",
+                "file": "1 - Flash Note 💡/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/Note.md"
+                "file": "1 - Flash Note 💡/Chapter 1.md"
               }
             }
           },
@@ -188,33 +164,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddf2af301dc7fd29",
+  "active": "11bdd224edcb724f",
   "lastOpenFiles": [
+    "1 - Flash Note 💡/Memory Hierarchy.md",
+    "1 - Flash Note 💡/Note.md",
+    "1 - Flash Note 💡/Elastic Network Interface.md",
     "1 - Flash Note 💡/CRTD(Conflict-free Replicated Data Type).md",
     "1 - Flash Note 💡/Chapter 1.md",
+    "1 - Flash Note 💡/hint.md",
+    "1 - Flash Note 💡/DFS.md",
+    "1 - Flash Note 💡/💡Singleton Pattern.md",
     "CRTD",
-    "1 - Flash Note 💡/Note.md",
     "7 - C++",
-    "1 - Flash Note 💡/Memory Hierarchy.md",
     "1 - Flash Note 💡/LLM.md",
     "1 - Flash Note 💡/Untitled 1.md",
     "1 - Flash Note 💡/Security Group.md",
     "1 - Flash Note 💡/Islands Architecture Rendering Pattern.md",
-    "1 - Flash Note 💡/hint.md",
     "1 - Flash Note 💡/💡Proxy Pattern.md",
-    "1 - Flash Note 💡/💡Singleton Pattern.md",
     "1 - Flash Note 💡/💡 Provider Pattern.md",
     "1 - Flash Note 💡/attachments🛫/Screenshot 2023-11-12 at 14.06.02.png",
     "1 - Flash Note 💡/attachments🛫/jspat-49_ksvtl8.webm",
     "1 - Flash Note 💡/attachments🛫/jspat-48_jxmuyy.webm",
     "1 - Flash Note 💡/attachments🛫/Pasted image 20231112134236.png",
     "1 - Flash Note 💡/attachments🛫",
-    "1 - Flash Note 💡/DFS.md",
     "6 - Design Pattern",
     "1 - Flash Note 💡/NACL(Network Access Control List).md",
     "1 - Flash Note 💡/Two pointers & Sliding window.md",
     "4 - AWS cloud ☁️/VPC.md",
-    "1 - Flash Note 💡/Elastic Network Interface.md",
     "4 - AWS cloud ☁️/DHCP traffic (Dynamic Host Configuration Protocol).md",
     "4 - AWS cloud ☁️/CloudWatch.md",
     "4 - AWS cloud ☁️/S3.md",
