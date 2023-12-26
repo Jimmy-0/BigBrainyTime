@@ -32,19 +32,18 @@
             }
           },
           {
-            "id": "ce459e11ed161eff",
+            "id": "11bdd224edcb724f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Flash Note 💡/Memory Hierarchy.md",
+                "file": "1 - Flash Note 💡/CRTD(Conflict-free Replicated Data Type).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/Chapter 1.md",
+                "file": "1 - Flash Note 💡/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/Chapter 1.md",
+                "file": "1 - Flash Note 💡/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/Chapter 1.md"
+                "file": "1 - Flash Note 💡/Note.md"
               }
             }
           },
@@ -189,10 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "567db12d1cc369dd",
+  "active": "ddf2af301dc7fd29",
   "lastOpenFiles": [
-    "1 - Flash Note 💡/Note.md",
+    "1 - Flash Note 💡/CRTD(Conflict-free Replicated Data Type).md",
     "1 - Flash Note 💡/Chapter 1.md",
+    "CRTD",
+    "1 - Flash Note 💡/Note.md",
     "7 - C++",
     "1 - Flash Note 💡/Memory Hierarchy.md",
     "1 - Flash Note 💡/LLM.md",
@@ -223,7 +224,6 @@
     "5 - Wallstreet 📈",
     "4 - AWS cloud ☁️",
     "3 - Leetcode 🛤",
-    "X - Index",
     "Untitled.md"
   ]
 }
