@@ -34,3 +34,5 @@ using `namespace std`  m can omit the std
 
 ## Implicit Promotion
 Unary and binary promotion are mechanisms in C++ that automatically convert smaller or lower-ranked types to larger or higher-ranked types to ensure consistency during certain operations.
+
+
