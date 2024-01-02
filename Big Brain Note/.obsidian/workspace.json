@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2556236ddb6dbe0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Flash Note 💡/LIBRARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/Compressing JS.md",
+                "file": "1 - Flash Note 💡/LIBRARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/Compressing JS.md",
+                "file": "1 - Flash Note 💡/LIBRARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/Compressing JS.md"
+                "file": "1 - Flash Note 💡/LIBRARY.md"
               }
             }
           },
@@ -177,10 +189,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "982ea1978b73602f",
+  "active": "2556236ddb6dbe0b",
   "lastOpenFiles": [
-    "1 - Flash Note 💡/Chapter 1.md",
     "1 - Flash Note 💡/Compressing JS.md",
+    "1 - Flash Note 💡/LIBRARY.md",
+    "1 - Flash Note 💡/Chapter 1.md",
     "1 - Flash Note 💡/Memory Hierarchy.md",
     "1 - Flash Note 💡/Note.md",
     "1 - Flash Note 💡/Elastic Network Interface.md",
