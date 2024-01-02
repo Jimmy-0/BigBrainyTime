@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Flash Note 💡/Compressing JS.md",
+                "file": "1 - Flash Note 💡/Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Flash Note 💡/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Flash Note 💡/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/LIBRARY.md"
+                "file": "1 - Flash Note 💡/Chapter 1.md"
               }
             }
           },
@@ -175,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1eaacf9f388faf43",
+  "active": "982ea1978b73602f",
   "lastOpenFiles": [
     "1 - Flash Note 💡/Compressing JS.md",
     "1 - Flash Note 💡/LIBRARY.md",

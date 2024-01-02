@@ -15,3 +15,4 @@ To improve website performance.
 
 ### **Brotli** 
 - **better compression ratio** at similar compression levels.
+- 
