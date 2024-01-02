@@ -151,7 +151,7 @@
             }
           },
           {
-            "id": "b83585e0e78d922f",
+            "id": "85dfaef60e4f8a20",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "982ea1978b73602f",
+  "active": "85dfaef60e4f8a20",
   "lastOpenFiles": [
     "1 - Flash Note 💡/Compressing JS.md",
     "1 - Flash Note 💡/LIBRARY.md",

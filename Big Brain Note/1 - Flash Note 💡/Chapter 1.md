@@ -38,4 +38,43 @@ Unary and binary promotion are mechanisms in C++ that automatically convert smal
 ## Operators Precedence
 - Unary > Binary
 - math > comparison > bitwise > logic > compound assignment > comma
-- 
+## Comma Operator
+- if there is a comma, then return the value of the right 
+```C++
+int x = (3,4); // x = 4
+int y; // y = 5
+int z;
+z = y,x; // z = 4
+```
+
+## Spaceship Operator (<=>)
+Allow comparing two objects in a similar way of `strcmp`
+- Can greatly simplify the comparison operators overloading
+
+## Fixed Width Integers : it's better to use it.
+- have the same size on any architecture
+`int8_t` , `uint8_t`
+`int16_t` , `uint16_t`
+`int32_t` , `uint32_t`
+`int64_t` , `uint64_t`
+- I/O stream interprets `uint8_t` and `int8_t` as char and not as integer values
+- `size_t` , `ptrdiff_t` data types for storing the biggest representable value on the current architecture
+- `size_t` 
+	- an unsigned integer type (of at least 16-bit)
+	- the return type of `sizeof()`
+	- used for size measures
+- `ptrdiff_t` 
+	- singed version of `size_t` for computing pointer difference
+### Overflow & Wraparound
+- Overflow
+	- the res of the arithmetic operation exceeds the word length
+- Wraparounf
+	- The res of the arithmetic operation is reduced modulo 2^N, where N is the number of bits of the word
+## Singed Integer  VS Unsigned Integer
+| Signed Integer                                       | Unsigned Integer                     |
+| ---------------------------------------------------- | ------------------------------------ |
+| positive, negative, zero                             | only non-negative values             |
+| negative values (2^31-1 ) more than positive(2^31-2) | Discontinuity in 0, 2^32-1           |
+| Overflow / Underflow -> undefined behavior           | Wraparound -> well-defined           |
+| Bit-wise operations are implementation defined       | Bit-wise operations are well-defined |
+|                                                      |                                      |
