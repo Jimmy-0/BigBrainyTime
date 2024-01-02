@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2556236ddb6dbe0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Flash Note 💡/LIBRARY.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/LIBRARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/LIBRARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +175,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2556236ddb6dbe0b",
+  "active": "1eaacf9f388faf43",
   "lastOpenFiles": [
     "1 - Flash Note 💡/Compressing JS.md",
     "1 - Flash Note 💡/LIBRARY.md",

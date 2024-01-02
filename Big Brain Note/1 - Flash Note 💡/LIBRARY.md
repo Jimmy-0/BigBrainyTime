@@ -1,4 +1,0 @@
-- Relay on wordpress to record the borrowing 
-	- bookID + memberID 
-- how many books?
-	- 5000 on the system 
