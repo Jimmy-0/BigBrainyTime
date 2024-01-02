@@ -77,4 +77,26 @@ Allow comparing two objects in a similar way of `strcmp`
 | negative values (2^31-1 ) more than positive(2^31-2) | Discontinuity in 0, 2^32-1           |
 | Overflow / Underflow -> undefined behavior           | Wraparound -> well-defined           |
 | Bit-wise operations are implementation defined       | Bit-wise operations are well-defined |
-|                                                      |                                      |
+
+- Time to use Signed Integer
+  1. If it can be mixed with negative values
+  2. expressing non-negative values with signed integer and assertions
+  3. exploit undefined behavior in loops
+- Time to use Unsigned Integer
+  1. If the quantity can never be mixed with negative values
+  2. bitmask values
+  3. division, modulo
+  4. safety-critical system. signed integer overflow could be "non determinisitc"
+smaller type to larger type will keep the sign
+```c++
+int16_t x = -1;
+int y = x;
+cout << y // -1
+```
+
+larger typer to smaller type will modulo to the number of bits of the smaller type
+```c++
+int x = 65537 // which in greater then 2^16 (65536) 16 bits
+int16_t y = x;
+cout y; // 1 since 65537%2^16
+```
