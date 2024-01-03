@@ -9,3 +9,9 @@ TIME : O(N) / SPACE O(N)
 - Use a temp stack to store and keep track of the minimum value
 	- only store the value if it is smaller.
 TIME : O(N) / SPACE O(N)
+
+# 22. Generate Parentheses
+- Backtracking 
+	- number of open VS number of close 
+TIME : O(n) /  SPACE : O(n) or O(2n)
+
