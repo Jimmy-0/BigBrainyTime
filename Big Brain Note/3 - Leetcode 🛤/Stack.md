@@ -26,4 +26,4 @@ TIME : O(N) / SPACE : O(N)
 - Determine whether it will be merged to the fleet or not.
 	- if it will create its own fleet then it will stay in the stack
 	- Otherwise it will be merged
-- 分兩派，比他快就合併 / 比他慢就會造成新的fleet. 
+- 分兩派，比他快就合併 / 比他慢就會造成新的fleet.
