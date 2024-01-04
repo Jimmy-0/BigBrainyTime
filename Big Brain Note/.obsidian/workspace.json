@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2c1755cbbb79797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Flash Note 💡/Chapter 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "982ea1978b73602f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Flash Note 💡/Chapter 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0166434cf02218ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Leetcode 🛤/Stack.md",
+                "file": "1 - Flash Note 💡/Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Leetcode 🛤/Stack.md",
+                "file": "1 - Flash Note 💡/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Leetcode 🛤/Stack.md",
+                "file": "1 - Flash Note 💡/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Leetcode 🛤/Stack.md"
+                "file": "1 - Flash Note 💡/Chapter 1.md"
               }
             }
           },
@@ -175,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +166,8 @@
   },
   "active": "0166434cf02218ae",
   "lastOpenFiles": [
-    "1 - Flash Note 💡/💡 Provider Pattern.md",
     "3 - Leetcode 🛤/Stack.md",
+    "1 - Flash Note 💡/💡 Provider Pattern.md",
     "1 - Flash Note 💡/Two pointers & Sliding window.md",
     "1 - Flash Note 💡/Chapter 1.md",
     "1 - Flash Note 💡/Compressing JS.md",

@@ -73,7 +73,7 @@ Allow comparing two objects in a similar way of `strcmp`
 ## Singed Integer  VS Unsigned Integer
 | Signed Integer                                       | Unsigned Integer                     |
 | ---------------------------------------------------- | ------------------------------------ |
-| positive, negative, zero                             | only non-negative values             |
+| positive, negative, zero                             | only non-negative values (positive value and zero)            |
 | negative values (2^31-1 ) more than positive(2^31-2) | Discontinuity in 0, 2^32-1           |
 | Overflow / Underflow -> undefined behavior           | Wraparound -> well-defined           |
 | Bit-wise operations are implementation defined       | Bit-wise operations are well-defined |
@@ -86,7 +86,8 @@ Allow comparing two objects in a similar way of `strcmp`
   1. If the quantity can never be mixed with negative values
   2. bitmask values
   3. division, modulo
-  4. safety-critical system. signed integer overflow could be "non determinisitc"
+  4. using an unsigned integer type might be suitable when dealing with array indices, as array indices are naturally non-negative and using an unsigned type can prevent accidental negative values or simplify certain arithmetic operations.
+  5. safety-critical system. signed integer overflow could be "non determinisitc"
 smaller type to larger type will keep the sign
 ```c++
 int16_t x = -1;
@@ -100,3 +101,26 @@ int x = 65537 // which in greater then 2^16 (65536) 16 bits
 int16_t y = x;
 cout y; // 1 since 65537%2^16
 ```
+
+"""
+I've vascillated between one camp and the other over the years, but in 25 years of professional development, other than pointer arithmetic I can't think of a single time where I've dealt with numbers that exceed a trillion in either direction. Integer overflows are so rare that I can't even remember one happening with 64-bit values. Underflow on the other hand... I've encountered that plenty.
+
+I'm now back in the signed camp. Signed integers make it a lot easier to sanity check integer subtraction when negative values are disallowed (a common situation), and it's easy to reason about. Also, not converting between signed and unsigned avoids accidental conversion overflows due to different expectations, so keeping it signed bypasses that whole can of worms while maintaining maximum flexibility.
+
+Unsigned gives you 2x the positive numeric range, which 99.999% of the time you'll never use (and if you did, underflow detection would become a nightmare).
+
+I can't think of a single time I've heard someone complain "I wish Java's long type supported up to 16 quintillion instead of a paltry 8 quintillion"
+
+At the end of the day, code is for people, so keep it easy for people.
+"""
+### Undefined Behavior
+1. Initialize an integer larger than its range
+2. Bitwise operations on signed integer types
+3. Shift larger than #bits of the data type
+4. implicit conversion
+   
+## Floating Number
+### Normal Number
+a floating point value that can be represented with at least one bit set in the exponent or the mantissa has all 0s
+### Denormal Number
+a floating point value that can be represented with all 0s in the exponent, but the mantissa is non-zero
