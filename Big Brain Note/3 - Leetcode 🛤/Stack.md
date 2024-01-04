@@ -21,3 +21,6 @@ TIME : O(n) /  SPACE : O(n) or O(2n)
 	- 回頭清算
 TIME : O(N) / SPACE : O(N)
 
+# Car Fleet
+- For each position, calculate the time when the car reach the destination.
+- 
