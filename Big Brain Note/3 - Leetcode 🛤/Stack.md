@@ -15,3 +15,9 @@ TIME : O(N) / SPACE O(N)
 	- number of open VS number of close 
 TIME : O(n) /  SPACE : O(n) or O(2n)
 
+# 739. Daily Temperature
+- using stack to hold the temperatures that haven't have the res
+- using `while` to make sure that the previous res is taken care
+	- 回頭清算
+TIME : O(N) / SPACE : O(N)
+

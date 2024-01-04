@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Flash Note 💡/Chapter 1.md",
+                "file": "3 - Leetcode 🛤/Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/Chapter 1.md",
+                "file": "3 - Leetcode 🛤/Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/Chapter 1.md",
+                "file": "3 - Leetcode 🛤/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/Chapter 1.md"
+                "file": "3 - Leetcode 🛤/Stack.md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "0166434cf02218ae",
   "lastOpenFiles": [
+    "1 - Flash Note 💡/Chapter 1.md",
     "3 - Leetcode 🛤/Stack.md",
     "1 - Flash Note 💡/💡 Provider Pattern.md",
     "1 - Flash Note 💡/Two pointers & Sliding window.md",
-    "1 - Flash Note 💡/Chapter 1.md",
     "1 - Flash Note 💡/Compressing JS.md",
     "1 - Flash Note 💡/LIBRARY.md",
     "1 - Flash Note 💡/Memory Hierarchy.md",
