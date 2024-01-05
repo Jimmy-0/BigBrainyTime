@@ -27,3 +27,7 @@ TIME : O(N) / SPACE : O(N)
 	- if it will create its own fleet then it will stay in the stack
 	- Otherwise it will be merged
 - 分兩派，比他快就合併 / 比他慢就會造成新的fleet.
+
+# [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+
+Needs more clarification 
