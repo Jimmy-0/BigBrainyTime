@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "f50c60f1e69735b8",
+            "id": "0e341f7455d9f379",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "1 - Flash Note 💡/Docker.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Leetcode 🛤/Stack.md",
+                "file": "1 - Flash Note 💡/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Leetcode 🛤/Stack.md",
+                "file": "1 - Flash Note 💡/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Leetcode 🛤/Stack.md"
+                "file": "1 - Flash Note 💡/Docker.md"
               }
             }
           },
@@ -175,10 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f50c60f1e69735b8",
+  "active": "0e341f7455d9f379",
   "lastOpenFiles": [
-    "1 - Flash Note 💡/Chapter 1.md",
     "3 - Leetcode 🛤/Stack.md",
+    "1 - Flash Note 💡/Docker.md",
+    "1 - Flash Note 💡/Chapter 1.md",
     "1 - Flash Note 💡/💡 Provider Pattern.md",
     "1 - Flash Note 💡/Two pointers & Sliding window.md",
     "1 - Flash Note 💡/Compressing JS.md",
@@ -213,7 +216,6 @@
     "_attachments 🛫",
     "5 - Wallstreet 📈",
     "4 - AWS cloud ☁️",
-    "3 - Leetcode 🛤",
-    "Untitled.md"
+    "3 - Leetcode 🛤"
   ]
 }
