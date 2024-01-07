@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "0e341f7455d9f379",
+            "id": "181f9f7ea3b63ea4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Flash Note 💡/Docker.md",
+                "file": "1 - Flash Note 💡/Section 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c7b40c4e213fc328",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/Docker.md",
+                "file": "1 - Flash Note 💡/Section 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/Docker.md",
+                "file": "1 - Flash Note 💡/Section 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/Docker.md"
+                "file": "1 - Flash Note 💡/Section 1.md"
               }
             }
           },
@@ -178,9 +177,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e341f7455d9f379",
+  "active": "181f9f7ea3b63ea4",
   "lastOpenFiles": [
     "3 - Leetcode 🛤/Stack.md",
+    "1 - Flash Note 💡/Section 1.md",
     "1 - Flash Note 💡/Docker.md",
     "1 - Flash Note 💡/Chapter 1.md",
     "1 - Flash Note 💡/💡 Provider Pattern.md",
@@ -213,7 +213,6 @@
     "4 - AWS cloud ☁️/CloudWatch.md",
     "4 - AWS cloud ☁️/S3.md",
     "1 - Flash Note 💡/VPC Flow Logs.md",
-    "1 - Flash Note 💡/2023-11-05.md",
     "_attachments 🛫",
     "5 - Wallstreet 📈",
     "4 - AWS cloud ☁️",
