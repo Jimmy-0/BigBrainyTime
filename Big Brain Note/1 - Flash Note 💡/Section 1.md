@@ -11,3 +11,4 @@
   4. Pricing
 # AZ (Availability Zone)
 # AWS Point of Presence (Edge Location)
+IAM user VS root user
