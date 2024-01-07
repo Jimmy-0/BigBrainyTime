@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Flash Note 💡/Section 1.md",
+                "file": "1 - Flash Note 💡/Section 1 - IAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/Section 1.md",
+                "file": "1 - Flash Note 💡/Section 1 - IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/Section 1.md",
+                "file": "1 - Flash Note 💡/Section 1 - IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/Section 1.md"
+                "file": "1 - Flash Note 💡/Section 1 - IAM.md"
               }
             }
           },
@@ -180,7 +180,7 @@
   "active": "181f9f7ea3b63ea4",
   "lastOpenFiles": [
     "3 - Leetcode 🛤/Stack.md",
-    "1 - Flash Note 💡/Section 1.md",
+    "1 - Flash Note 💡/Section 1 - IAM.md",
     "1 - Flash Note 💡/Docker.md",
     "1 - Flash Note 💡/Chapter 1.md",
     "1 - Flash Note 💡/💡 Provider Pattern.md",
