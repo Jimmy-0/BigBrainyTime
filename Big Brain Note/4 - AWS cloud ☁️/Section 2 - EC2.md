@@ -38,7 +38,7 @@ Elastic compute cloud / IaaS
 `443` : HTTPS - secured web
 `3389` : RDP (Remote  Desktop Protocol)
 
-
+## Elastic IP
+- Every time we terminate an instance, the IP will be deleted and we will be assigned a new one if we
 ## EC2 Hibernate
 - available for On-demand, reserved and spot instances 
-- 
