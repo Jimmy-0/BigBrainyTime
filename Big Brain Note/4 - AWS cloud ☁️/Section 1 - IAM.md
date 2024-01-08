@@ -47,4 +47,6 @@ IAM Access Advisor : show the services access granted to other users
 - Policies: define the allow or deny permissions
 - Roles: For EC2 instances and services
 - Audit: IAM credential report & IAM User Advisor
-
+- IAM can assign users to groups and assign permissions to groups
+- IAM can create and use roles for giving permissions to AWS services
+- 

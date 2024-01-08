@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Flash Note 💡/Section 2 - EC2.md",
+                "file": "4 - AWS cloud ☁️/Section 2 - EC2.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Flash Note 💡/Section 2 - EC2.md",
+                "file": "4 - AWS cloud ☁️/Section 2 - EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Flash Note 💡/Section 2 - EC2.md",
+                "file": "4 - AWS cloud ☁️/Section 2 - EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Flash Note 💡/Section 2 - EC2.md"
+                "file": "4 - AWS cloud ☁️/Section 2 - EC2.md"
               }
             }
           },
@@ -192,7 +192,7 @@
   "active": "adce72df95b1fcfd",
   "lastOpenFiles": [
     "4 - AWS cloud ☁️/Section 1 - IAM.md",
-    "1 - Flash Note 💡/Section 2 - EC2.md",
+    "4 - AWS cloud ☁️/Section 2 - EC2.md",
     "3 - Leetcode 🛤/Stack.md",
     "1 - Flash Note 💡/Docker.md",
     "1 - Flash Note 💡/Chapter 1.md",
