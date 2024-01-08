@@ -22,6 +22,7 @@ Elastic compute cloud / IaaS
 - Data warehousing application
 - Distributed file storage
 ### Security Groups
+- Can be one to many 
 - like the firewall 
 - control the traffic in and out to the EC2 Instances 
 - only contain allow rules
