@@ -39,6 +39,19 @@ Elastic compute cloud / IaaS
 `3389` : RDP (Remote  Desktop Protocol)
 
 ## Elastic IP
-- Every time we terminate an instance, the IP will be deleted and we will be assigned a new one if we
+- Every time we terminate an instance, the public IP will be deleted and we will be assigned a new one if we restart the instance 
+- Elastic IP is for fixed public IP if you want to keep the IP 
+### Placement Groups
+strategy defined to control EC2 Instance
+- Cluster : low-latency group in one single AZ, same rack, same AZ
+- Spread: across underlying hardware, different AZ, more diverse but more latency, increase the availability 
+- Partition : partitions within one AZ
 ## EC2 Hibernate
 - available for On-demand, reserved and spot instances 
+### ENI (Elastic Network Interface)
+- attributes:  
+	- Primary private IPv4, one or more secondary IPv4 • One Elastic IP (IPv4) per private IPv4  
+	- One Public IPv4  
+	- One or more security groups  
+	- A MAC address
+- bound to one AZ
