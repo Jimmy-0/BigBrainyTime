@@ -4,4 +4,7 @@
 - mine type
   ### Location Context
   location /desired directory
-- 
+
+### Redirect
+
+### Load Balancer
