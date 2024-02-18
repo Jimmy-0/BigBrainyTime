@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,8 +180,9 @@
   },
   "active": "212f60b0bd262afe",
   "lastOpenFiles": [
-    "1 - Flash Note 💡/CloudFront.md",
+    "1 - Flash Note 💡/Untitled.md",
     "1 - Flash Note 💡/NGINX.md",
+    "1 - Flash Note 💡/CloudFront.md",
     "4 - AWS cloud ☁️/Section 2 - EC2.md",
     "4 - AWS cloud ☁️/Section 1 - IAM.md",
     "1 - Flash Note 💡/Docker.md",
@@ -212,7 +214,6 @@
     "6 - Design Pattern",
     "1 - Flash Note 💡/NACL(Network Access Control List).md",
     "4 - AWS cloud ☁️/VPC.md",
-    "4 - AWS cloud ☁️/DHCP traffic (Dynamic Host Configuration Protocol).md",
     "_attachments 🛫",
     "5 - Wallstreet 📈",
     "4 - AWS cloud ☁️",
